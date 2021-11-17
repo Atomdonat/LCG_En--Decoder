@@ -85,9 +85,9 @@ print("whole Plaintext: ", plain)
 '''
 declaration of used parameters:
 
-a               = Parameter a in Gaussian Elimination
-b               = Parameter a in Gaussian Elimination
-c               = Parameter a in Gaussian Elimination
+a               = Parameter A in Gaussian Elimination
+b               = Parameter B in Gaussian Elimination
+c               = Parameter C in Gaussian Elimination
 d               = array of all Parameter in Gaussian Elimination
 e               = Ciphertext
 f               = 
