@@ -14,9 +14,9 @@ s1 = int(input("enter first key: "))
 s2 = int(input("enter second key: "))
 s3 = int(input("enter third key: "))
 
-a = int(input("enter parameter a:"))
-b = int(input("enter parameter b:"))
-c = int(input("enter parameter c:"))
+a = int(input("enter parameter A:"))
+b = int(input("enter parameter B:"))
+c = int(input("enter parameter C:"))
 
 key = [s1, s2]
 
