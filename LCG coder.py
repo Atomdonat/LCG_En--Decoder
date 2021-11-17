@@ -10,13 +10,13 @@ for i in range(0,len(x),2):
 x = n
 print(x)
 
-s1 = 69
-s2 = 42
-s3 = 59
+s1 = int(input("enter first key: "))
+s2 = int(input("enter second key: "))
+s3 = int(input("enter third key: "))
 
-a = 10
-b = 20
-c = 30
+a = int(input("enter parameter a:"))
+b = int(input("enter parameter b:"))
+c = int(input("enter parameter c:"))
 
 key = [s1, s2]
 
